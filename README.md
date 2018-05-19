@@ -55,8 +55,8 @@ IMPORTANTE: fique atento se sua cidade possui o nono dígito, ok? No exemplo aci
 
 > Substitua todos os ZEROS `...src="https://api.wapp.co/balao/00000000000..."` pelo seu número de telefone. Incluindo o DDD da sua cidade .
 
+- Copie o código: 
 ```html
 <iframe style="margin: 0;padding: 0;border: 0;font-size: 100%;font: inherit;vertical-align: baseline;position: fixed;bottom: 10px;right: 10px;height: 70px;width: 225px;overflow: hidden;" src="https://api.wapp.co/balao/00000000000" width="225" height="70" allowfullscreen hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
 ```
-
-Cole o código antes de ` </body> `
+- Cole o código antes de ` </body> `
