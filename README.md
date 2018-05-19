@@ -1,7 +1,7 @@
 # WappCo
 Inicie uma conversa no WhatsApp com um único clique!
 
-Crindo um link "clique para conversar" com seu número no Whatsapp 
+Crindo um link para seu número no Whatsapp 
 ====================
 
 Você tem um negócio que precisa constantemente entrar em contato com os clientes pelo WhatsApp? Se você usa a rede social para suporte nas suas vendas vai gostar dessa ferramenta. Aprenda a fazer um link "clique para conversar" com seu número no WhatsApp!
@@ -17,7 +17,7 @@ A probabilidade de uma venda acontecer aumenta, pois o cliente não tem o trabal
 Veja como criar o seu link
 ============
 
-Para criar um link "clique para conversar" para seu número no Whatsapp:
+Para criar um link para seu número no Whatsapp:
 
 1º Copie o link
 -
@@ -49,7 +49,7 @@ IMPORTANTE: fique atento se sua cidade possui o nono dígito, ok? No exemplo aci
 
 > Teste o link acima clicando aqui: <https://wapp.co/0/Olá,_meu_amigo!_siga_meu_instagram_http:||instagram.com|wappco_> 
 
-5º Criar um botão _"clique para conversar"_ para exibir no rodapé de seu site
+5º Criar um botão para exibir no rodapé de seu site
 -
 ![](https://api.wapp.co/precisadeajuda.png)
 
